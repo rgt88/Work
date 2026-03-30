@@ -11,11 +11,11 @@ import re
 
 # Database connection details
 dsn_database = "DWHDBPRD"
-dsn_hostname = "10.55.53.70"
-dsn_port = "5480"
-dsn_uid = "etlprod"
+dsn_hostname = 
+dsn_port = 
+dsn_uid = 
 dsn_pwd = "password"
-jdbc_driver_name = "org.netezza.Driver"
+jdbc_driver_name = 
 jdbc_driver_loc = os.path.join('D:\\nzjdbc.jar')
 
 # Function to connect to Netezza
